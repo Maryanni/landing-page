@@ -36,3 +36,53 @@
     transform: rotate(360deg);
   }
 }
+
+.ulAtribute{
+  justify-content: space-between;
+
+}
+
+.nav-link{
+  color: #f2b60a;
+}
+.colorMenu{
+  color: #f2b60a;
+  flex-grow: 1;
+  
+}
+.imagenCarrusel{
+  width: 90%;
+  height: 550px;
+  
+}
+
+.carousel-item {
+  justify-content: center;
+  
+}
+
+.textWelcome{
+  color: #00beff;
+}
+
+.cardGeneral{
+  width: 90%;
+  height: 50vh;
+  margin: auto;
+  margin-top: 1cm;
+  
+}
+
+.card-img-top{
+  height: 130px;
+  width: 85%;
+  align-self: center;
+}
+
+.footerClass{
+  color: #f2b60a;
+}
+
+.navbar-toggler{
+  border: none;
+}
